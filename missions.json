@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "data": [
+    {"plateNumber": "AA-123-AA", "from": "Boulogne-Billancourt", "to": "Aubervilliers", "distance": 17},
+    {"plateNumber": "AB-222-CD", "from": "Paris 17ème", "to": "Boulogne-Billancourt", "distance": 8},
+    {"plateNumber": "ZZ-123-AA", "from": "Puteaux", "to": "Aubervilliers", "distance": 15},
+    {"plateNumber": "WW-987-BV", "from": "Boulogne-Billancourt", "to": "Reims", "distance": 153},
+    {"plateNumber": "FE-456-AA", "from": "Boulogne-Billancourt", "to": "Aubervilliers", "distance": 17}
+  ]
+}
